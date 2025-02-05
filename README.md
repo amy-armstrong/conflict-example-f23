@@ -1,6 +1,6 @@
-Merge conflicts, don't fear them.
+Merge conflicts,you don't fear them. They happen all the time. 
 
-This is additional content that was added through the GitHub interface. I am causing a merge conflict.
+This is additional content that was added through the GitHub interface! I am causing a merge conflict.
 
 merge conflicts - edit made on github.cm
 
